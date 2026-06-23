@@ -1,0 +1,170 @@
+{
+  "pages/home/corporate-service": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2247109487",
+    "searchQuery": "modern corporate office interior design workstation India",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2201420110",
+      "https://img1.wsimg.com/isteam/getty/2234132013"
+    ],
+    "userModified": false,
+    "createdAt": "2026-03-28T05:16:16.951Z",
+    "lastUpdated": "2026-05-10T05:49:53.432Z",
+    "gettyId": "2247109487",
+    "alternativeGettyIds": [
+      "2201420110",
+      "2234132013"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal"
+  },
+  "pages/home/residential-service": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1316043716",
+    "searchQuery": "luxury residential interior design living room India premium",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2253747570",
+      "https://img1.wsimg.com/isteam/getty/2201219948"
+    ],
+    "userModified": false,
+    "createdAt": "2026-03-28T05:16:16.978Z",
+    "lastUpdated": "2026-05-10T05:49:52.068Z",
+    "gettyId": "1316043716",
+    "alternativeGettyIds": [
+      "2253747570",
+      "2201219948"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal"
+  },
+  "pages/home/furniture-service": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2148914913",
+    "searchQuery": "custom furniture manufacturing workshop premium quality",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1308885547",
+      "https://img1.wsimg.com/isteam/getty/1530342263"
+    ],
+    "userModified": false,
+    "createdAt": "2026-03-28T05:16:17.008Z",
+    "lastUpdated": "2026-05-10T05:49:56.360Z",
+    "gettyId": "2148914913",
+    "alternativeGettyIds": [
+      "1308885547",
+      "1530342263"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal"
+  },
+  "pages/home/government-service": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2234132013",
+    "searchQuery": "government office interior design furniture India professional",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2205507898",
+      "https://img1.wsimg.com/isteam/getty/1804572669"
+    ],
+    "userModified": false,
+    "createdAt": "2026-03-28T05:16:17.066Z",
+    "lastUpdated": "2026-05-10T05:49:55.181Z",
+    "gettyId": "2234132013",
+    "alternativeGettyIds": [
+      "2205507898",
+      "1804572669"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal"
+  },
+  "pages/home/kitchen-service": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1135891751",
+    "searchQuery": "modern modular kitchen interior design premium India",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2201825394",
+      "https://img1.wsimg.com/isteam/getty/1560594282"
+    ],
+    "userModified": false,
+    "createdAt": "2026-03-28T05:16:17.115Z",
+    "lastUpdated": "2026-05-10T05:49:54.512Z",
+    "gettyId": "1135891751",
+    "alternativeGettyIds": [
+      "2201825394",
+      "1560594282"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal"
+  },
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2234132013",
+    "searchQuery": "luxury interior design premium corporate office modern India",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2214316653",
+      "https://img1.wsimg.com/isteam/getty/1185216423",
+      "https://img1.wsimg.com/isteam/getty/2160570058",
+      "https://img1.wsimg.com/isteam/getty/1448162655"
+    ],
+    "userModified": false,
+    "createdAt": "2026-03-28T05:16:17.367Z",
+    "lastUpdated": "2026-05-10T05:49:51.741Z",
+    "gettyId": "2234132013",
+    "alternativeGettyIds": [
+      "2214316653",
+      "1185216423",
+      "2160570058",
+      "1448162655"
+    ],
+    "requestedSize": {
+      "width": 1920,
+      "height": 900,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "bold,warm",
+    "minimumSize": "x_large"
+  },
+  "pages/marketplace/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2193545991",
+    "searchQuery": "government procurement business meeting India corporate",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/667435214",
+      "https://img1.wsimg.com/isteam/getty/2195249405"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-17T16:26:01.203Z",
+    "lastUpdated": "2026-06-17T16:26:01.203Z",
+    "gettyId": "2193545991",
+    "alternativeGettyIds": [
+      "667435214",
+      "2195249405"
+    ],
+    "requestedSize": {
+      "width": 1920,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "minimumSize": "large"
+  }
+}
