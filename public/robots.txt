@@ -1,0 +1,27 @@
+# DPM Enterprise - Interior Design Company Mumbai
+# Allow all search engines to crawl the website
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.dpmenterprise.in/sitemap.xml
+
+# Crawl-delay for polite bots
+Crawl-delay: 1
+
+# Disallow admin and private areas
+Disallow: /api/
+Disallow: /portal/
+Disallow: /_404
+
+# Allow important pages
+Allow: /
+Allow: /about
+Allow: /services
+Allow: /projects
+Allow: /contact
+Allow: /blog
+Allow: /certifications
+Allow: /careers
+Allow: /marketplace
